@@ -40,7 +40,6 @@ Fire-Detection-with-YOLOv8/
 │  ├─ data.yaml
 │  └─ test/images/
 ├─ main.py              # Training / evaluation entry
-├─ detect_mp4.py        # Video inference with OpenCV
 ├─ predict_one.py       # Single image inference
 ├─ requirements.txt
 └─ README.md
