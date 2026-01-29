@@ -1,4 +1,4 @@
-# Fire Detection with YOLOv8 & OpenCV
+# Fire Detection with YOLOv8 
 
 This project implements a custom fire detection system using a YOLOv8 object detection model trained on a fire dataset and deployed with OpenCV for image, video, and real-time inference.
 
